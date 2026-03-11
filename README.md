@@ -85,6 +85,8 @@ Additional date fields were created to support time-based analysis.
 A one-to-many relationship was created between the transaction grouping table and the transaction dataset.
 
     TranGroups[TranCode] 1 → * HistoricalTransactions[TranCode]
+    
+<img width="350" height="300" alt="Data Model" src="https://github.com/user-attachments/assets/db4d2a52-e2e4-4a70-be23-92ea331ab3d9" />
 
 ## Key DAX Measures
 
@@ -142,6 +144,7 @@ The dashboard focuses on the following areas.
 
 Multiple exploratory charts were created during development, but only the most informative visualizations were included in the final dashboard.
 
+<img width="1235" height="696" alt="Main Dashboard" src="https://github.com/user-attachments/assets/58090b7f-cbba-4035-b352-6859865db555" />
 
 ## Key Insights
 
